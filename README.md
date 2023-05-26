@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TECHWAREZ
+- 👋 Hi, I’m @UTTAM_KUMAR_SAHOO
 - 👀 I’m interested in technology and tech realted stuff
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate with someone who will guide me in this path and will help me to be a better version of myself
